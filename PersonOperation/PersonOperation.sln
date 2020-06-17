@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonOperation", "PersonOperation.csproj", "{E8D73815-9074-4897-9459-7EAD8F781674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonOperation.Tests", "..\PersonOperation.Tests\PersonOperation.Tests.csproj", "{2D35B3F1-5DA6-46F1-970C-7BC6790FAA97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D73815-9074-4897-9459-7EAD8F781674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D73815-9074-4897-9459-7EAD8F781674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D73815-9074-4897-9459-7EAD8F781674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D73815-9074-4897-9459-7EAD8F781674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D35B3F1-5DA6-46F1-970C-7BC6790FAA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D35B3F1-5DA6-46F1-970C-7BC6790FAA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D35B3F1-5DA6-46F1-970C-7BC6790FAA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D35B3F1-5DA6-46F1-970C-7BC6790FAA97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710FD8A5-8E9D-4B9D-BC00-67485329AF11}
+	EndGlobalSection
+EndGlobal
